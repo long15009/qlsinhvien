@@ -1,0 +1,97 @@
+.App{
+  font-size: 1.2rem;
+  
+}
+.title{
+  text-align: center;
+}
+.stdForm{
+  display: flex;
+  justify-content: center;
+}
+
+.inf4{
+  height: 30px;
+  display: flex;
+  
+  margin-bottom: 15px;
+}
+.lb{
+  width: 100px;
+  
+  
+}
+.btn{
+  margin: auto;
+  width: 100%;
+}
+.formall{
+  height: 200px;
+  width: 300px;
+  padding: 0 12px;
+}
+.table{
+  width: 50%;
+}
+
+
+.input{
+  padding:0 5px;
+  border: 1px solid#181616;
+}
+
+/* styles.css */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 18px;
+  text-align: center;
+}
+
+th, td {
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #f1f1f1;
+}
+
+button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+.col-name {
+  width: 30%;
+}
+
+.col-dob {
+  width: 20%;
+}
+
+.col-gender {
+  width: 20%;
+}
+
+.col-actions {
+  width: 30%;
+}
